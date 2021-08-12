@@ -1,3 +1,11 @@
+##-------------------------------------------------------------------------
+## Project: IoT-Based traffic control system based on traffic density
+## Author : ochieno eliud
+##        : Fullstack Developer | AI & IoT Scholar and Researcher
+##        : Open-source enthusiast and contributor
+## Yr     : 021
+##-------------------------------------------------------------------------
+
 #include <TimerOne.h>
 #include<Wire.h>
 #include <LiquidCrystal_I2C.h>
